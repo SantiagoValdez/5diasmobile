@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.groupweird.5dias"
+        id        = "com.groupweird.dias"
         version   = "1.0.0">
-    <name>5 Dias</name>
+    <name>5Dias</name>
 
     <description>
         Aplicacion para levantar pedidos
@@ -20,5 +20,5 @@
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
 
-    <icon src="icon.gif" />
+    <icon src="icon.png" />
 </widget>
